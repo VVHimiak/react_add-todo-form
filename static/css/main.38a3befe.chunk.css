@@ -1,0 +1,2 @@
+.todo__title-container.invalid:after,.todo__user-container.invalid:after{top:110%;position:absolute;display:block;color:red;padding:5px 20px;background-color:pink;border-radius:5px}body{background:radial-gradient(circle,#22c1c3 0,#e9be60 100%)}.todo__user-container{position:relative}.todo__user-container.invalid:after{content:"Please choose a user"}.todo__title-container{position:relative}.todo__title-container.invalid:after{content:"Please enter the title"}
+/*# sourceMappingURL=main.38a3befe.chunk.css.map */
